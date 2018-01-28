@@ -1735,8 +1735,6 @@ Wire Wire Line
 Wire Wire Line
 	1620 5390 1620 5415
 Wire Wire Line
-	2290 5390 2170 5390
-Wire Wire Line
 	2170 5390 2170 5415
 Wire Wire Line
 	2845 5390 2720 5390
@@ -1872,4 +1870,6 @@ Connection ~ 2170 4265
 Connection ~ 2720 4265
 Connection ~ 3870 4265
 Connection ~ 3320 4265
+Wire Wire Line
+	2170 5390 2295 5390
 $EndSCHEMATC
