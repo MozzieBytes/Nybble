@@ -63,7 +63,7 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
     (grid_origin 145.25625 85.725)
-    (visible_elements 7FFFE7FF)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
@@ -419,7 +419,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer B.Cu) (tedit 58AA84A8) (tstamp 5A6E37EC)
-    (at 97.63125 73.81875 135)
+    (at 95.72625 74.295 135)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A6B57F9)
@@ -563,7 +563,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer B.Cu) (tedit 58AA84A8) (tstamp 5A6E3830)
-    (at 92.86875 71.4375 135)
+    (at 92.42425 70.993 135)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A6C3B75)
@@ -2084,7 +2084,7 @@
   )
 
   (module keyboard_parts:USB_miniB_hirose_5S8 (layer B.Cu) (tedit 5950B1FC) (tstamp 5A6E3B9C)
-    (at 226.21875 23.8125)
+    (at 226.15525 24.384)
     (descr "USB miniB hirose UX60SC-MB-5S8")
     (tags "USB miniB hirose through hole UX60SC-MB-5S8")
     (path /5A6C361F)
@@ -3703,7 +3703,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer B.Cu) (tedit 58E0A804) (tstamp 5A6E3FD5)
-    (at 83.34375 92.86875)
+    (at 83.28025 92.837)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A6C2254)
@@ -3739,7 +3739,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer B.Cu) (tedit 58E0A804) (tstamp 5A6E3FE6)
-    (at 230.98125 28.575 180)
+    (at 231.61625 30.861 180)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A6C37F3)
@@ -3775,7 +3775,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer B.Cu) (tedit 58E0A804) (tstamp 5A6E3FF7)
-    (at 230.98125 26.19375 180)
+    (at 231.61625 27.813 180)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A6C387C)
@@ -3886,7 +3886,7 @@
   )
 
   (module Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm (layer B.Cu) (tedit 5A6E435D) (tstamp 5A6E4070)
-    (at 88.10625 78.58125 225)
+    (at 88.36025 78.613 225)
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (path /5A6B28DC)
