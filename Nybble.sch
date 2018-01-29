@@ -1592,11 +1592,6 @@ Wire Wire Line
 	10300 2950 10550 2950
 Wire Wire Line
 	7450 1450 8150 1450
-Connection ~ 4420 4265
-Connection ~ 4970 4265
-Connection ~ 5520 4265
-Connection ~ 6070 4265
-Connection ~ 6670 4265
 Wire Wire Line
 	1070 4965 7270 4965
 Connection ~ 6670 4965
@@ -1781,11 +1776,7 @@ Wire Wire Line
 Wire Wire Line
 	1620 6040 1620 6065
 Wire Wire Line
-	2290 6040 2170 6040
-Wire Wire Line
 	2170 6040 2170 6065
-Wire Wire Line
-	3440 6040 3320 6040
 Wire Wire Line
 	3320 6040 3320 6065
 Wire Wire Line
@@ -1809,15 +1800,11 @@ Wire Wire Line
 Wire Wire Line
 	7270 6040 7270 6065
 Wire Wire Line
-	1395 3790 1395 5835
+	1395 3790 1395 5840
 Connection ~ 1395 4540
 Wire Wire Line
 	1395 5190 1395 5185
 Connection ~ 1395 5185
-Wire Wire Line
-	1945 3840 1945 5845
-Connection ~ 1945 5190
-Connection ~ 1945 4540
 Wire Wire Line
 	2495 3840 2495 4540
 Wire Wire Line
@@ -1862,14 +1849,25 @@ Wire Wire Line
 	7595 5840 7595 5185
 Connection ~ 7595 5185
 Wire Wire Line
-	1070 4260 1070 4265
+	2170 5390 2295 5390
+Wire Wire Line
+	2170 6040 2295 6040
+Wire Wire Line
+	3320 6040 3445 6040
+Wire Wire Line
+	1945 3840 1945 5840
+Connection ~ 1945 4540
+Connection ~ 1945 5190
 Wire Wire Line
 	1070 4265 7270 4265
 Connection ~ 1620 4265
 Connection ~ 2170 4265
 Connection ~ 2720 4265
-Connection ~ 3870 4265
 Connection ~ 3320 4265
-Wire Wire Line
-	2170 5390 2295 5390
+Connection ~ 3870 4265
+Connection ~ 4420 4265
+Connection ~ 4970 4265
+Connection ~ 5520 4265
+Connection ~ 6070 4265
+Connection ~ 6670 4265
 $EndSCHEMATC
